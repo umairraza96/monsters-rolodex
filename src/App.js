@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import CardList from './components/card-list.component'
+import CardList from './components/Cardlist/card-list.component'
 // import logo from './logo.svg';
 import './App.css';
 
